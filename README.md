@@ -4,7 +4,9 @@
 
 ## Sponsors
 
-![demo](capsolver.gif)
+<a href="http://capsolver.com">
+  <img src="capsolver.gif" />
+</a>
 
 The [capsolver.com](http://capsolver.com) is an AI-powered service that provides automatic captcha solving capabilities. It supports a range of captcha types, including reCAPTCHA, hCaptcha, and FunCaptcha, AWS Captcha, Geetest, Akamai Web, BMP, Imperva / Incapsula, image captcha among others.
 
